@@ -1,0 +1,52 @@
+# Leina – medicine
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+「愛は薬」君の口癖に
+つられちゃっては服用してる
+君の優しさに甘えてばかり
+そんな君に渡せるもの全部あげる
+I got you, you want me?
+いつか家や車だって!
+I love you love you
+笑って握る君は「握手は手当て」って
+I love you love you
+笑ってる「何より1番の薬は君です」
+Love you love you
+(You are the only one)
+Love you love you
+medicine medicine medicine
+先生!質問です。「好きなあの子が笑うと胸が痛くな
+るんです
+これは何かの病かな?」
+「それはそれは恋煩い」
+突然現れたヒロイン
+隣には並べるくらい精一杯精進します、だから!
+I need you, you want me?
+いつかお揃いの苗字だって!
+I love you love you
+笑ってハグする君は「ストレス解消」だって
+I love you love you
+笑ってる「何より1番の薬は君です」
+Love you love you
+(You are the only one)
+Love you love you
+medicine medicine medicine
+I love you love you
+笑って握る君は「握手は手当て」って
+I love you love you
+笑ってる「何より1番の薬は君です」
+I love you love you
+笑って隠さないでね、悲しい気持ちは
+I love you love you
+笑ってる「何より1番の薬は君です」
+Love you love you
+(You are the only one)
+Love you love you
+medicine medicine medicine
+Love you love you
+(You are the only one)
+Love you love you
+medicine medicine medicine
+```
