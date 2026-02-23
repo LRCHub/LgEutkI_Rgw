@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "medicine",
+  "base_artist": "Leina",
+  "createdAt": "2026-02-23T12:48:56.921097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Big Backyard (feat. Old Crow Medicine Show)",
+      "artist": "Molly Tuttle",
+      "has_synced": true,
+      "path": "select/01_Big_Backyard_(feat._Old_Crow_Medicine_Show)_Molly_Tuttle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Medicine",
+      "artist": "LUNA",
+      "has_synced": false,
+      "path": "select/02_My_Medicine_LUNA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Insert a (Mental Relaxation / Medicine",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/03_Insert_a_(Mental_Relaxation___Medicine_Guru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Insert A (Mental Relaxation): Medicine",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/04_Insert_A_(Mental_Relaxation)__Medicine_Guru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Medicine Ball",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/05_Medicine_Ball_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Medicine Ball",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_Medicine_Ball_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Medicine Burn",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/07_Medicine_Burn_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Medicine Magazine",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/08_Medicine_Magazine_Low.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Medicine Magazines",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/09_Medicine_Magazines_Low.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Medicine Man",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/10_Medicine_Man_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The End of Medicine",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/11_The_End_of_Medicine_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Kind of Medicine (Tenaglia's D Tour dub)",
+      "artist": "Ultra Naté",
+      "has_synced": false,
+      "path": "select/12_New_Kind_of_Medicine_(Tenaglia's_D_Tour_dub)_Ultra_Naté.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kings of Medicine",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/13_Kings_of_Medicine_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Medicine",
+      "artist": "Momma",
+      "has_synced": true,
+      "path": "select/14_Medicine_Momma.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Medicine",
+      "artist": "Broods",
+      "has_synced": true,
+      "path": "select/15_Medicine_Broods.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "medicine",
+      "artist": "Vérité",
+      "has_synced": true,
+      "path": "select/16_medicine_Vérité.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "medicine",
+      "artist": "Leina",
+      "has_synced": false,
+      "path": "select/pl_01_medicine_Leina.txt"
+    }
+  ]
+}
